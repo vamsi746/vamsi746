@@ -151,26 +151,27 @@ fun_fact: I turn coffee into code
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vamsi746&theme=tokyonight)
 
 </div>
 
----
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vamsi746&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vamsi746&theme=tokyonight)
 
-## 📊 Weekly Development Breakdown
+</div>
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   ████████████████░░░░░░░░░   65.0%
-Python       ████████░░░░░░░░░░░░░░░░░   20.0%
-React        ████░░░░░░░░░░░░░░░░░░░░░   10.0%
-Other        ██░░░░░░░░░░░░░░░░░░░░░░░    5.0%
-```
-<!--END_SECTION:waka-->
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vamsi746&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vamsi746&theme=tokyonight&utcOffset=5.5)
+
+</div>
 
 ---
 
