@@ -23,7 +23,7 @@
 
 ```yaml
 name: Lakshmi Narayana
-role: Full Stack Developer & CS Student
+role: Full Stack Developer
 location: India
 passion: Building modern web applications & AI-powered tools
 
